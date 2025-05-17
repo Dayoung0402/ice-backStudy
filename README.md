@@ -23,7 +23,7 @@
 
   <aside>
 
-### ▶️ 스터디에서 뭐했냐묜...
+### ▶️ 스터디에서 뭐했냐면...
 1. 5/1 -> 기본편은 다영 혼자 공부 & mvc편으로 같이 스터디 하기로 수정 & HTTP + HTTPS 공부하고 깃에 푸시
 2. 5/8 -> mysql 설치 + 레포지토리 포크 + Ideaproject/ice-breakers/backend db추가 했다가 뭐 했다가 난리남
 + schemea추가함 
